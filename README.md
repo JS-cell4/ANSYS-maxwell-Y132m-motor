@@ -1,0 +1,1 @@
+# ANSYS-maxwell-Y132m-motor
